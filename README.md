@@ -4,7 +4,7 @@
 ### Project Background:
 This repo extends and preserves exported versions of the Discord Educational Toolkit, a pedagogical guide to teaching with Discord servers that is currently hosted and maintained on the CUNY Academic Commons. Developed in fulfillment of the Certificate Program in Interactive Technology and Pedagogy at The Graduate Center, CUNY, I've chosen to archive the project here for the sake of posterity and project sustainability. 
 
-In addition to the dreaded XML file(s) of an exported WP site, I've included ill-converted markdown versions of the project's webpages with the intention of reworking them at a later day. 
+In addition to the dreaded XML file(s) of an exported WP site, I've included ill-converted markdown versions of the project's webpages with the intention of reworking them at a later date. 
 
 * * *
 
